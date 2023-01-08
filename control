@@ -1,0 +1,9 @@
+Package: com.yourcompany.bluetoothfix
+Name: bluetooth_fix
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: try to fix bluetoothd on ios 13.5
+Maintainer: zjw
+Author: zjw
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
