@@ -1,7 +1,7 @@
 # bluetooth_fix
 test on iOS 13.5 only
 
-works on old devices now
+support old devices now
 
 Try to fix bluetoothd
 
